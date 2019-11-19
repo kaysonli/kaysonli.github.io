@@ -18,6 +18,7 @@ tags: JavaScript
 *   Object
 
 在本文中，我们将仔细研究`BigInt`，并了解它如何帮助克服JavaScript中`Number`类型的限制。
+<!-- more -->
 ### 问题
 
 对于来自其他语言的程序员来说，JavaScript中缺乏显式整数类型常常令人困惑。许多编程语言支持多种数字类型，如float、double、integer和bignum，但JavaScript不是这样。在JavaScript中，所有数字都以[双精度64位浮点格式](http://en.wikipedia.org/wiki/Double_precision_floating-point_format)表示，这是由[IEEE 754-2008](https://en.wikipedia.org/wiki/IEEE_754-2008_revision)标准定义的。
