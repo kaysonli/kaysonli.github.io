@@ -1,7 +1,9 @@
 ---
 title: 彻底抛弃 jQuery ，不然还留着过年？
 date: 2019-11-17 20:04:54
-tags: JavaScript,jQuery
+tags: 
+    - JavaScript
+    - jQuery
 ---
 
 我以前很喜欢 jQuery，而且说实话，我是先学jQuery，再学 JavaScript 的。所以我写这篇文章有点像是在背叛 jQuery。

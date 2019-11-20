@@ -1,7 +1,9 @@
 ---
 title: 7道简单的 JavaScript 面试题，三个月没招到一个人
 date: 2019-10-23 16:34:48
-tags: JavaScript,面试题
+tags: 
+    - JavaScript
+    - 面试题
 ---
 
 

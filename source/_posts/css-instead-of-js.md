@@ -1,7 +1,9 @@
 ---
 title: 这些特效即将告别JavaScript，迎来CSS时代！
 date: 2019-11-02 20:04:54
-tags: JavaScript,CSS
+tags: 
+  - JavaScript
+  - CSS
 ---
 
 随着CSS和JavaScript的发展，这两种语言之间的界限逐渐变得模糊。
