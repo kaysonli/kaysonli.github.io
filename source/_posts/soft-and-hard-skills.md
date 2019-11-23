@@ -99,7 +99,3 @@ tags: 职业
 
 这篇文章列出了我认为需要掌握的技能。如果你觉得少了什么，或者不需要什么，请在评论中告诉我，我也想知道你的意见。
 ![加油！](https://upload-images.jianshu.io/upload_images/1618526-02bc24a0b7a7cdf2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-#### 交流
-欢迎扫码关注微信公众号“1024译站”，为你奉上更多技术干货。
-![1024译站](https://upload-images.jianshu.io/upload_images/1618526-62fb02d1aa79fe8a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

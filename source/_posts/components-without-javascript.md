@@ -242,7 +242,3 @@ CSS:
 我在项目里使用了部一些 CSS 实现方案，避免了完全利用 JavaScript 实现视觉效果。
 
 当然了，还有很多纯 CSS 实现方案，我只是列举了觉得比较有意思的几个。如果你还有其他方案，欢迎在评论里留言分享！
-
-#### 交流
-欢迎扫码关注微信公众号“1024译站”，为你奉上更多技术干货。
-![微信公众号：1024译站](https://upload-images.jianshu.io/upload_images/1618526-c4aea894cd19c794.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
