@@ -218,6 +218,3 @@ export const language = (state) => state.userConfig.language;// 某个Action需�
 
 [原文链接](https://blog.usejournal.com/vue-js-best-practices-c5da8d7af48d)
 
-#### 交流
-欢迎关注微信公众号“1024译站”，持续为你奉上技术干货。
-![公众号：1024译站](https://upload-images.jianshu.io/upload_images/1618526-840b5a6dfebbe564.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

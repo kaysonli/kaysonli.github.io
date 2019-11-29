@@ -4,7 +4,7 @@ date: 2019-11-26 09:49:42
 tags: JavaScript
 ---
 
-![](https://upload-images.jianshu.io/upload_images/1618526-3e4a041990941c42.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](/uploads/1618526-3e4a041990941c42.webp)
 
 > 了解原型链继承的概念
 
@@ -492,7 +492,7 @@ double.hasOwnProperty('name')
 7.  `Object.prototype` 对象包含 `hasOwnProperty` 方法，收工✔️
 
 下面这个小动图演示了这个过程：
-![原型链示意图](https://upload-images.jianshu.io/upload_images/1618526-8641ac0df2544a22.gif?imageMogr2/auto-orient/strip)
+![原型链示意图](/uploads/1618526-8641ac0df2544a22.webp?imageMogr2/auto-orient/strip)
 
 现在回到创建付费用户实例的任务。我们还会继续，我们会用*OLOO模式*，*构造函数* 模式和 *类* 来实现这个特性。这样，我们将看到每个模式和特性的权衡对比。
 

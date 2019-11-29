@@ -20,7 +20,7 @@ CSS 让你可以在网页上创建动态布局和界面，但是作为一门语�
 掷骰子（还有抛硬币）是公认的随机行为，事先无法预测会出现什么结果。下面我们来看看这位大神是怎么在 CSS 里模拟掷骰子的效果的。
 
 大体思路是这样的：通过叠加多层 label ，并使用CSS动画来“旋转”和交换最顶层。像这样：
-![image](https://upload-images.jianshu.io/upload_images/1618526-e2b223a7c2cd5bcd.gif?imageMogr2/auto-orient/strip)
+![image](/uploads/1618526-e2b223a7c2cd5bcd.gif?imageMogr2/auto-orient/strip)
 
 模拟这种随机化的代码不是很复杂，可以通过动画和不同的延迟时间来实现：
 HTML:
@@ -119,6 +119,6 @@ label:active::before {
 但另一方面，它是100% CSS(不需要预处理程序或其他外部帮助程序)，对于人类用户来说，它看起来是100%随机的。
 
 利用这种办法，这位大神还做了一个剪刀锤子布的游戏：
-![石头剪刀布](https://upload-images.jianshu.io/upload_images/1618526-b0fcbd5764264214.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![石头剪刀布](/uploads/1618526-b0fcbd5764264214.webp?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 [CodePen 源码：https://codepen.io/alvaromontoro/pen/BaaBYyz](https://codepen.io/alvaromontoro/pen/BaaBYyz)

@@ -333,7 +333,7 @@ import cloneDeep from "lodash.clonedeep";
 > ️ 要进一步优化，你可以使用 [Webpack Bundle Analyzer ](https://www.npmjs.com/package/webpack-bundle-analyzer) ，用交互式的可缩放地图可视化文件大小。
 
 * * *
-![Webpack Bundle Analyzer ](https://upload-images.jianshu.io/upload_images/1618526-af532d71f03e5d17.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Webpack Bundle Analyzer ](/uploads/1618526-af532d71f03e5d17.webp?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 关于处理大型 Vue 代码库，你还有其他最佳实践可以分享的吗？欢迎在评论区留言。

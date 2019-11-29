@@ -48,7 +48,7 @@ myObserver.observe(someEl);
 ## 简单的例子
 
 下面是一个简单的例子，演示如何使用Resize Observer API。通过调整浏览器窗口的大小来尝试一下，你会发现只有当元素的大小受到影响时，渐变角度和文本内容才会改变:
-![image.png](https://upload-images.jianshu.io/upload_images/1618526-03bce9f2e2f48a17.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](/uploads/1618526-03bce9f2e2f48a17.webp?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 * * *
 

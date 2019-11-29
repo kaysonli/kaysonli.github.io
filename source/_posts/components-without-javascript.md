@@ -14,7 +14,7 @@ tags: CSS
 ### 响应式文本截断
 
 CSS 文本截断很容易实现，性能也不错，因为我们无须编辑文本的 HTML 内容，只是渲染结果。单行文本截断在旧浏览器上支持良好，而多行文本截断只在较新的浏览器上获得支持。
-![image.png](https://upload-images.jianshu.io/upload_images/1618526-227bce4ea47dd609.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](/uploads/1618526-227bce4ea47dd609.webp)
 
 
 HTML：
@@ -90,7 +90,7 @@ CSS：
 
 这种实现非常灵活，很容易自定义。
 
-![rating.gif](https://upload-images.jianshu.io/upload_images/1618526-d811d4be53269cfd.gif?imageMogr2/auto-orient/strip)
+![rating.gif](/uploads/1618526-d811d4be53269cfd.webp)
 HTML:
 ```
 <div class="rating">
@@ -156,7 +156,7 @@ CSS:
 这是个非常灵活的元素，它的 CSS 逻辑可以同时用于 tooltips 和下拉菜单，因为两者的工作方式类似，都支持鼠标悬停和点击（或者触碰）。
 
 这种实现方式存在的问题是，由于它的`focus` 样式，点击后tooltip（或者下拉菜单）会一直处于打开状态，直到用户在元素外部点击。
-![tooltip.gif](https://upload-images.jianshu.io/upload_images/1618526-6bdfa20c638d7518.gif?imageMogr2/auto-orient/strip)
+![tooltip.gif](/uploads/1618526-6bdfa20c638d7518.webp)
 
 HTML:
 ```
@@ -215,13 +215,13 @@ CSS:
 ### 模态对话框
 
 这个实现就有点 hacky 了，它完全依赖于URL里的查询字符串。URL 里的 Id 必须跟要打开的模态对话框元素匹配。
-![modal.gif](https://upload-images.jianshu.io/upload_images/1618526-4228feed8e66dd0d.gif?imageMogr2/auto-orient/strip)
+![modal.gif](/uploads/1618526-4228feed8e66dd0d.webp)
 
 源码：https://codepen.io/AdrianBece/embed/poopaaQ
 
 ### 输入框标签文字浮动
 
-![floating.gif](https://upload-images.jianshu.io/upload_images/1618526-1302cb9c8fac9943.gif?imageMogr2/auto-orient/strip)
+![floating.gif](/uploads/1618526-1302cb9c8fac9943.webp)
 
 源码：https://codepen.io/AdrianBece/embed/KKKZQOY
 
@@ -230,7 +230,7 @@ CSS:
 最近，HTML 可以通过 `<details>` 和 `<summary>` 元素实现原生的手风琴效果了，但它的缺点是没有太多的样式选择，因此开发人员还是要自己去实现。所幸，通过利用复选框和单选框逻辑，我们可以不依赖 JavaScript 实现手风琴组件了。
 
 这种实现方案的缺陷是，它依赖于`input` 元素，并且它的逻辑需要额外的 HTML 代码，但另一方面它的可访问性较好。
-![toggle.gif](https://upload-images.jianshu.io/upload_images/1618526-d05e550e270b1de9.gif?imageMogr2/auto-orient/strip)
+![toggle.gif](/uploads/1618526-d05e550e270b1de9.webp)
 
 源码：https://codepen.io/AdrianBece/embed/vYYrPzK
 

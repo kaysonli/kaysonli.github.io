@@ -30,7 +30,7 @@ node proxy.js
 ```
 用浏览器打开[http://localhost:3000/](http://localhost:3000/)
 
-![HTTP 代理](http://upload-images.jianshu.io/upload_images/1618526-2dd2c3b1dfdffc68.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![HTTP 代理](/uploads/1618526-2dd2c3b1dfdffc68.webp?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 关键代码在路由处理方法内。
 ```

@@ -7,7 +7,7 @@ tags: 职业
 > 原文：https://dev.to/duomly/soft-and-hard-skills-you-need-to-be-a-good-developer-5ah4
 翻译整理：大道至简
 
-![image.png](https://upload-images.jianshu.io/upload_images/1618526-006f23ac02e0a901.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](/uploads/1618526-006f23ac02e0a901.webp)
 
 每种职业都有其特殊的要求。例如，要成为一名医生，你必须了解生物学，完成医科大学。作为一名教师，你需要获取资格证，还要关心学生。
 
@@ -98,4 +98,4 @@ tags: 职业
 如你所见，做一名程序员不仅仅是学习编程语言的基础知识。要成为一名优秀的开发人员并有能力变得更好，你还需要一组特定的软技能和硬技能。好消息是，你可以很容易地训练硬技能，特别是如果你对技术感兴趣的话，但是提高软技能可能需要更多的工作经历和时间。当然，这是完全可能的。
 
 这篇文章列出了我认为需要掌握的技能。如果你觉得少了什么，或者不需要什么，请在评论中告诉我，我也想知道你的意见。
-![加油！](https://upload-images.jianshu.io/upload_images/1618526-02bc24a0b7a7cdf2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![加油！](/uploads/1618526-02bc24a0b7a7cdf2.webp)

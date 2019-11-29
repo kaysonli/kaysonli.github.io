@@ -135,7 +135,7 @@ font.color = Colors.#secretColor; // Error
 *Chrome 已支持*
 
 允许您在代码的顶层作用域使用await。这对于在浏览器控制台中调试异步内容（如 `fetch`）非常有用，而不需要在异步函数中包装它。
-[![using await in browser console](https://upload-images.jianshu.io/upload_images/1618526-b9d2299a6db84aef.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)](https://res.cloudinary.com/practicaldev/image/fetch/s--wCIIk7Oa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y5ur91fgud4pu7hh5ypv.png) 
+[![using await in browser console](/uploads/1618526-b9d2299a6db84aef.webp?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)](https://res.cloudinary.com/practicaldev/image/fetch/s--wCIIk7Oa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y5ur91fgud4pu7hh5ypv.png) 
 
 另一个杀手级用例是，它可以在用异步方式初始化的ES模块的顶层使用(比如建立数据库连接)。当这样一个异步模块被导入时，模块系统将等待它解析，然后再执行依赖它的模块。这将使处理异步初始化比目前通过返回一个初始化promise并等待它解决来得更容易。模块将不知道它的依赖是否异步。
 

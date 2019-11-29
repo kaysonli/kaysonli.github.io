@@ -39,9 +39,9 @@ Wei Gao[在她的博客上向我们展示了](https://dev.wgao19.cc/sun-moon-ble
 目前，[浏览器原生支持率77%，带前缀的话再多出 13%](https://caniuse.com/#search=mix-blend-mode)(全球91%)，Edge在76版本开始支持。
 
 要更深入地了解这种混合模式的工作原理，请务必查看 [Wei 的文章](https://dev.wgao19.cc/sun-moon-blending-mode/) 。如果想体验下有趣的实验，请看这个[CodePen 示例代码](https://codepen.io/imjuangarcia/embed/xxKLMEN)
-![夜间模式](https://upload-images.jianshu.io/upload_images/1618526-a669630d07c82407.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![夜间模式](/uploads/1618526-a669630d07c82407.webp?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![白天模式](https://upload-images.jianshu.io/upload_images/1618526-74a2a50db5f781dc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![白天模式](/uploads/1618526-74a2a50db5f781dc.webp?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 ## 截断文本
@@ -63,7 +63,7 @@ Wei Gao[在她的博客上向我们展示了](https://dev.wgao19.cc/sun-moon-ble
 那么，有什么新动向吗？Firefox[在68版本中实现了它](https://bugzilla.mozilla.org/show_bug.cgi?id=WebKit-line-clamp)，但是需要带`-webkit`前缀。现在Edge是基于Chromium的，我们也可以使用 `-webkit`前缀，这样[浏览器支持率高达92%](https://caniuse.com/#search=line-clamp)。
 
 这意味着我们现在可以使用三行CSS代码来截断多行文本，[像这样](https://codepen.io/imjuangarcia/pen/dybdYbB)。
-![文本截断](https://upload-images.jianshu.io/upload_images/1618526-d1220947f2fc0033.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![文本截断](/uploads/1618526-d1220947f2fc0033.webp?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 唯一的问题是，截断多行文本的规范是[CSS Overflow Module Level 3](https://drafts.csswg.org/css-overflow-3/#propdef--webkit-line-clamp)的一部分，而它目前还是编辑草案，这可能意味着规范可能会有一些变化。另一个需要考虑的事情是，你无法控制要显示的字符数，这可能会导致一些[不太方便(但很有趣)的截断场景。](https://twitter.com/search?f=tweets&vertical=default&q=karenmcgrane%20truncation%20is%20not&src=typd)除了这个问题，愉快地玩耍CSS 截断文本吧！
 

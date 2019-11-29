@@ -409,7 +409,7 @@ Axios在开发人员中越来越受欢迎，因此出现了大量扩展其功能
 ## 浏览器支持情况
 
 在浏览器支持方面，Axios非常可靠。甚至像ie11这样的老浏览器也能很好地与Axios配合使用。
-![浏览器支持](https://upload-images.jianshu.io/upload_images/1618526-7d1eda50cf15a831.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![浏览器支持](/uploads/1618526-7d1eda50cf15a831.webp?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 ## 总结
