@@ -11,7 +11,7 @@ tags: 行业
 
 此举旨在增强微软 Edge 与主导市场的基于Chromium 的浏览器之间的兼容性。因此，开发人员将不再需要执行其他测试或添加特定的代码来完全支持 Edge 浏览器，从而可以提高浏览器的使用率。
 <!-- more -->
-![Microsoft Edge browser comparison](https://upload-images.jianshu.io/upload_images/1618526-33aaf4b06cd2de0f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Microsoft Edge browser comparison](/uploads/1618526-33aaf4b06cd2de0f.webp?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 上面的屏幕截图是 microsoft.com 网站通过当前版本的 Edge 版本（左）和即将推出的带有 Chromium 引擎的 Edge 79版本（使用 beta 版本分支）的渲染效果对比。
 

@@ -38,7 +38,7 @@ CSS 动画不是什么新鲜玩意了，目前所有主流浏览器基本上都�
 ```
 效果是这样的：
 <!-- more -->
-![](https://upload-images.jianshu.io/upload_images/1618526-a78ad82f05ddb97c.gif?imageMogr2/auto-orient/strip)
+![](/uploads/1618526-a78ad82f05ddb97c.webp?imageMogr2/auto-orient/strip)
 
 看起来还不错吧？这是怎么做到的呢？首先我们用`<div>` 做了一个宽高相等的圆环，设置了边框，其中一边的颜色不一样，`border-radius` 设置成 50%，就成了圆形。为了设置动画效果，我们做了2件事：
 1.  给目标元素定义 `animation` 属性
@@ -100,7 +100,7 @@ CSS 动画不是什么新鲜玩意了，目前所有主流浏览器基本上都�
 
 ```
 效果：
-![](https://upload-images.jianshu.io/upload_images/1618526-cd404342048c54a6.gif?imageMogr2/auto-orient/strip)
+![](/uploads/1618526-cd404342048c54a6.webp?imageMogr2/auto-orient/strip)
 
 
 对于开始和结束状态（`0%` 和 `100%`），你还可以用关键字 `from` 和 `to`来表示：
@@ -143,7 +143,7 @@ CSS 动画不是什么新鲜玩意了，目前所有主流浏览器基本上都�
 
 ```
 效果：
-![](https://upload-images.jianshu.io/upload_images/1618526-c798e5aee6992d29.gif?imageMogr2/auto-orient/strip)
+![](/uploads/1618526-c798e5aee6992d29.webp?imageMogr2/auto-orient/strip)
 
 这里我们用了[CSS transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)，在5个状态点上设置不同变换，实现了翻转动画效果。
 ## 多重动画
@@ -166,7 +166,7 @@ CSS 动画不是什么新鲜玩意了，目前所有主流浏览器基本上都�
 
 ```
 效果：
-![叠加动画](https://upload-images.jianshu.io/upload_images/1618526-555f4b24c8797ae1.gif?imageMogr2/auto-orient/strip)
+![叠加动画](/uploads/1618526-555f4b24c8797ae1.webp?imageMogr2/auto-orient/strip)
 
 
 *注意：这里只设置了 `to` 规则，省略了 `from` 规则。这是因为，针对省略的开始或结束状态，浏览器会使用元素的当前或初始样式。 *
@@ -198,7 +198,7 @@ CSS 动画不是什么新鲜玩意了，目前所有主流浏览器基本上都�
 
 ```
 效果：
-![心跳](https://upload-images.jianshu.io/upload_images/1618526-d960e858a2148c01.gif?imageMogr2/auto-orient/strip)
+![心跳](/uploads/1618526-d960e858a2148c01.webp?imageMogr2/auto-orient/strip)
 
 timing 函数替换成了刚刚用工具生成的 `cubic-bezier(0.000, 1.010, 0.5, 1.200)`。
 ## 兼容方案
