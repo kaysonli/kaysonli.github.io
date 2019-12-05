@@ -1,6 +1,6 @@
 ---
 title: Vue.js 无限滚动列表性能优化方案
-date: 2019-11-28 09:46:17
+date: 2019-12-03 09:46:17
 tags: Vue.js
 ---
 
@@ -19,7 +19,7 @@ tags: Vue.js
 - 监听列表容器元素的滚动事件，当列表里的元素进入可视区域，则添加到DOM中
 - 问题是如果一直这么滚下去，列表会越来越大。所以需要在列表元素离开 ViewPort 的时候从DOM中移除
 - 问题又来了，由于 ViewPort 刚好是一屏的大小，滚动的时候元素还没来得及渲染，会出现一段时间的空白。解决办法就是上下增加一部分数据渲染。
-![无限滚动](https://upload-images.jianshu.io/upload_images/1618526-e3d68e99ac070746.gif?imageMogr2/auto-orient/strip)
+![无限滚动](/uploads/1618526-e3d68e99ac070746.webp?imageMogr2/auto-orient/strip)
 
 无限滚动的性能优化方案基本思路就是这样。
 
