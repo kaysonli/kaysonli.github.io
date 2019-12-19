@@ -3,7 +3,7 @@ title: 刨根问底：深入研究 JavaScript 全局变量
 date: 2019-12-15 12:57:48
 tags: JavaScript
 ---
-![](https://upload-images.jianshu.io/upload_images/1618526-2a722cbf2d490498.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](/uploads/1618526-2a722cbf2d490498.webp?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 本文的内容比较硬核，我们一起来看下 JavaScript 全局变量的底层机制到底是怎样的。文章会涉及脚本作用域、全局对象等概念。
 ### 作用域
