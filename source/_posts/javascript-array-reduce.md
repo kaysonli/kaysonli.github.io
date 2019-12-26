@@ -1,5 +1,5 @@
 ---
-title: 自从用了 Array.reduce() ，整个世界都清净了
+title: 自从学会了 Array.reduce() ，再也离不开它
 date: 2019-12-21 12:00:54
 tags: JavaScript
 ---
