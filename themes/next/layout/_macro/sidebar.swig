@@ -137,9 +137,6 @@
 
           {% include '../_custom/sidebar.swig' %}
         </div>
-        <a href="https://promotion.aliyun.com/ntms/act/qwbk.html?userCode=mlialv3p" target="_blank">
-          <img src="/uploads/aliyun160x310.jpg" alt="阿里云"/>
-        </a>
       </section>
 
       {% if display_toc and toc(page.content).length > 1 %}
@@ -160,8 +157,6 @@
             {% endif %}
 
           </div>
-          <a href="https://promotion.aliyun.com/ntms/act/qwbk.html?userCode=mlialv3p" target="_blank">
-          <img src="/uploads/aliyun160x310.jpg" alt="阿里云"/>
         </a>
         </section>
       <!--/noindex-->

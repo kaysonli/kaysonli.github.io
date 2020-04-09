@@ -243,8 +243,8 @@ post_wordcount:
 # Wechat Subscriber
 wechat_subscriber:
   enabled: true
-  qcode: /uploads/wechat-qcode.jpg
-  description: 欢迎扫码关注我的微信公众号，订阅更多文章
+  qcode: https://s1.ax1x.com/2020/04/08/GR70KJ.png
+  description: 看到这个颇有气质的 logo，不来关注下吗？
 
 # Reward
 reward_comment: 坚持原创技术分享，您的支持将鼓励我继续创作！
