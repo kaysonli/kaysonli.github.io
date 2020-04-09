@@ -1,7 +1,7 @@
 ---
 title: 相见恨晚的 Git 命令动画演示，一看就懂！
 date: 2020-04-07 14:03:23
-tags: Git
+tags: git
 ---
 ![](https://s1.ax1x.com/2020/04/08/GRTPwq.md.png)
 
