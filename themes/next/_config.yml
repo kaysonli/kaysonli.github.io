@@ -243,7 +243,7 @@ post_wordcount:
 # Wechat Subscriber
 wechat_subscriber:
   enabled: true
-  qcode: https://s1.ax1x.com/2020/04/08/GR70KJ.png
+  qcode: http://ww1.sinaimg.cn/large/6bb8ee92gy1gicf6ltn24j206o06oaal.jpg
   description: 看到这个颇有气质的 logo，不来关注下吗？
 
 # Reward
